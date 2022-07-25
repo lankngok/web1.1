@@ -1,0 +1,227 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "cateName":"Funiture"
+        },
+        {
+            "id": 2,
+            "cateName":"Trees"
+        },
+        {
+            "id": 3,
+            "cateName":"Wall Painting"
+        },
+        {
+            "id": 4,
+            "cateName":"Decoration Books"
+        },
+        {
+            "id": 5,
+            "cateName":"Table Flowers Vase"
+        }
+    ],
+    "data": [
+        {
+            "id": 1,
+            "prodName": "Sofa góc L PDLP SF-155-4            ",
+            "price": 300,
+            "cate_id": 1,
+            "img": "https://pondo.vn/wp-content/uploads/2022/05/PDLP-SF-155-411.jpg",
+            "descriptions": "Khung sản phẩm được làm từ gỗ tự nhiên chống mối mọt, chống cong vênh, thân thiện với môi trường. Bề mặt sản phẩm bọc vải nhung cao cấp, bắt mắt.            Đệm làm từ mút bọt biển có độ đàn hồi cao Chân làm từ ngũ kim chắc chắn.            Sản phẩm được thiết kế hiện đại, sang trọng, thích hợp cho mọi không gian."
+        },
+        {
+            "id": 2,
+            "prodName": "Sofa đôi PDLP SF-154-2            ",
+            "price": 30,
+            "cate_id": 1,
+            "img": "https://pondo.vn/wp-content/uploads/2022/05/PDLP-SF-154-2.png",
+            "descriptions": "Khung sản phẩm được làm từ gỗ tự nhiên chống mối mọt, chống cong vênh, thân thiện với môi trường. Bề mặt sản phẩm bọc vải nhung cao cấp, bắt mắt.            Đệm làm từ mút bọt biển có độ đàn hồi cao Chân làm từ ngũ kim chắc chắn.            Sản phẩm được thiết kế hiện đại, sang trọng, thích hợp cho mọi không gian."
+        },
+        {
+            "id": 3,
+            "prodName": "Sofa góc PDLP SF-152-4",
+            "price": 30,
+            "cate_id": 1,
+            "img": "https://pondo.vn/wp-content/uploads/2022/05/PDLP-SF-152-4-1.jpg",
+            "descriptions": "Khung sản phẩm được làm từ gỗ tự nhiên chống mối mọt, chống cong vênh, thân thiện với môi trường. Bề mặt sản phẩm bọc vải nhung cao cấp, bắt mắt.            Đệm làm từ mút bọt biển có độ đàn hồi cao Chân làm từ ngũ kim chắc chắn.            Sản phẩm được thiết kế hiện đại, sang trọng, thích hợp cho mọi không gian."
+        },
+        {
+            "id": 4,
+            "prodName": "Sofa đôi PDLP SF-149-2",
+            "price": 30,
+            "cate_id": 1,
+            "img": "https://pondo.vn/wp-content/uploads/2022/05/PDLP-SF-149-3-1.jpg",
+            "descriptions": "Khung sản phẩm được làm từ gỗ tự nhiên chống mối mọt, chống cong vênh, thân thiện với môi trường. Bề mặt sản phẩm bọc vải nhung cao cấp, bắt mắt.            Đệm làm từ mút bọt biển có độ đàn hồi cao Chân làm từ ngũ kim chắc chắn.            Sản phẩm được thiết kế hiện đại, sang trọng, thích hợp cho mọi không gian."
+        },
+        {
+            "id": 5,
+            "prodName": "Sofa góc L PDLP SF-133-4",
+            "price": 30,
+            "cate_id": 1,
+            "img": "https://pondo.vn/wp-content/uploads/2022/05/PDLP-SF-133-4.png",
+            "descriptions": "Khung sản phẩm được làm từ gỗ tự nhiên chống mối mọt, chống cong vênh, thân thiện với môi trường. Bề mặt sản phẩm bọc vải nhung cao cấp, bắt mắt.            Đệm làm từ mút bọt biển có độ đàn hồi cao Chân làm từ ngũ kim chắc chắn.            Sản phẩm được thiết kế hiện đại, sang trọng, thích hợp cho mọi không gian."
+        },
+        {
+            "id": 6,
+            "prodName": "Cây ngọc ngân",
+            "price": 30,
+            "cate_id": 2,
+            "img": "https://file4.batdongsan.com.vn/2021/01/07/JGcIp0rf/20210107145827-b2d9.jpg",
+            "descriptions": "Ngọc ngân là một trong những loại cây cảnh để bàn đẹp nhất, phổ biến nhất dành cho người mệnh Kim. Chúng kích thước đa dạng, nên thường được trồng trong nhiều cỡ chậu từ nhỏ đến lớn. Nếu không thích trồng trong chậu đất, bạn có thể chọn cây nhỏ trồng thuỷ sinh, đặt cây tại bàn phòng khách, hay phòng làm việc đều được."
+        },
+        {
+            "id": 7,
+            "prodName": "Cây dây nhện",
+            "price": 30,
+            "cate_id": 2,
+            "img": "https://file4.batdongsan.com.vn/2021/01/07/JGcIp0rf/20210107145825-5f82.jpg",
+            "descriptions": "“Dây nhện” là cái tên độc đáo mà dân gian thường sử dụng để gọi cây Lan Chi. Ngày nay, nhiều gia chủ mệnh Kim thường chọn cây để đặt trên bàn uống nước, bàn làm việc với mong muốn cuộc sống luôn bình yên, công việc phát triển thuận lợi."
+        },
+        {
+            "id": 8,
+            "prodName": "Cây Bạch mã hoàng tử",
+            "price": 30,
+            "cate_id": 2,
+            "img": "https://file4.batdongsan.com.vn/2021/01/07/JGcIp0rf/20210107145825-a03a.jpg",
+            "descriptions": "Bạch mã hoàng tử là tên gọi độc đáo để chỉ một loại cây mọc thành khóm, thân cây chỉ bé bằng chiếc đũa, nhưng lá to bản. Nếu sống trong tự nhiên, chiều cao của cây sẽ khoảng 1m5. Tuy nhiên khi trồng trong chậu, thì cây chỉ thấp tầm 40cm, thích hợp làm cây cảnh để bàn."
+        },
+        {
+            "id": 9,
+            "prodName": "Cây Lan Ý",
+            "price": 30,
+            "cate_id": 2,
+            "img": "https://file4.batdongsan.com.vn/2021/01/07/JGcIp0rf/20210107145826-5827.jpg",
+            "descriptions": "Cây lan Ý nằm trong top cây cảnh để bàn trưng phòng khách được nhiều gia chủ mệnh Kim lựa chọn. Lan Ý sở hữu vẻ đẹp thanh khiết, trong sáng, dáng hình tương đối nhỏ, chỉ cao khoảng 50cm."
+        },
+        {
+            "id": 10,
+            "prodName": "Cây lan hồ điệp trắng",
+            "price": 30,
+            "cate_id": 2,
+            "img": "https://file4.batdongsan.com.vn/2021/01/07/JGcIp0rf/20210107145828-c0a6.jpg",
+            "descriptions": "Lan hồ điệp trắng nằm trong top những cây cảnh để bàn hợp người mệnh Kim. Đây là một trong số ít những loài hoa vương giả, mang nét đẹp cao sang, quyền quý thích hợp để làm cảnh trong nhà. "
+        },
+        {
+            "id": 11,
+            "prodName": "Tranh phong cách tối giản hiện đại PK1",
+            "price": 30,
+            "cate_id": 3,
+            "img": "https://tranhtreotuong.vn/images/images_product/tranh-treo-tuong-phong-cach-toi-gian-pk(1).jpg",
+            "descriptions": "Chất liệu: In Canvas trên nền vải Bố công nghệ UV mực Mỹ. Tranh căng trên nền nhựa Formex phẳng lau chùi khăn ẩm dễ dàng. Viền tranh nhựa Composite nhập khẩu có 4 màu cơ bản: Đen, Trắng, Vàng Đồng, Giả Gỗ. Phía sau có sẵn móc treo, tranh dùng đinh nhựa 3 chân chuyên dụng không cần khoan"
+        },
+        {
+            "id": 12,
+            "prodName": "Tranh cửu ngư quần hội đối xứng 3 bức",
+            "price": 30,
+            "cate_id": 3,
+            "img": "https://tranhtreotuong.vn/images/images_product/tranh-cuu-ngu-quan-hoi-doi-xung.jpg",
+            "descriptions": "Chất liệu: In Canvas trên nền vải Bố công nghệ UV mực Mỹ. Tranh căng trên nền nhựa Formex phẳng lau chùi khăn ẩm dễ dàng. Viền tranh nhựa Composite nhập khẩu có 4 màu cơ bản: Đen, Trắng, Vàng Đồng, Giả Gỗ. Phía sau có sẵn móc treo, tranh dùng đinh nhựa 3 chân chuyên dụng không cần khoan"
+        },
+        {
+            "id": 13,
+            "prodName": "Tranh Mã Đáo Thành Công M221",
+            "price": 30,
+            "cate_id": 3,
+            "img": "https://tranhtreotuong.vn/images/images_product/tranh-treo-tuong-ma-dao-thanh-cong-m2021.jpg",
+            "descriptions": "Chất liệu: In Canvas trên nền vải Bố công nghệ UV mực Mỹ. Tranh căng trên nền nhựa Formex phẳng lau chùi khăn ẩm dễ dàng. Viền tranh nhựa Composite nhập khẩu có 4 màu cơ bản: Đen, Trắng, Vàng Đồng, Giả Gỗ. Phía sau có sẵn móc treo, tranh dùng đinh nhựa 3 chân chuyên dụng không cần khoan"
+        },
+        {
+            "id": 14,
+            "prodName": "Tranh bộ 3 Đối xứng nghệ thuật M5",
+            "price": 30,
+            "cate_id": 3,
+            "img": "https://tranhtreotuong.vn/images/images_product/tranh-bo-3-doi-xung-nghe-thuat(5).jpg",
+            "descriptions": "Chất liệu: In Canvas trên nền vải Bố công nghệ UV mực Mỹ. Tranh căng trên nền nhựa Formex phẳng lau chùi khăn ẩm dễ dàng. Viền tranh nhựa Composite nhập khẩu có 4 màu cơ bản: Đen, Trắng, Vàng Đồng, Giả Gỗ. Phía sau có sẵn móc treo, tranh dùng đinh nhựa 3 chân chuyên dụng không cần khoan"
+        },
+        {
+            "id": 15,
+            "prodName": "Tranh treo tường Hoa Đào Mai M6",
+            "price": 30,
+            "cate_id": 3,
+            "img": "https://tranhtreotuong.vn/images/images_product/tranh-treo-tuong-hoa-mai-dao-m(6).jpg",
+            "descriptions": "Chất liệu: In Canvas trên nền vải Bố công nghệ UV mực Mỹ. Tranh căng trên nền nhựa Formex phẳng lau chùi khăn ẩm dễ dàng. Viền tranh nhựa Composite nhập khẩu có 4 màu cơ bản: Đen, Trắng, Vàng Đồng, Giả Gỗ. Phía sau có sẵn móc treo, tranh dùng đinh nhựa 3 chân chuyên dụng không cần khoan"
+        },
+        {
+            "id": 16,
+            "prodName": "Elements of Style: Designing a Home & a Life Hardcover – Illustrated, October 7, 2014",
+            "price": 30,
+            "cate_id": 4,
+            "img": "https://i.etsystatic.com/9627113/r/il/a0b8a1/4051686397/il_794xN.4051686397_g8cg.jpg",
+            "descriptions": "Elements of Style is a uniquely personal and practical decorating guide that shows how designing a home can be an outlet of personal expression and an exercise in self-discovery. Drawing on her ten years of experience in the interior design industry, Erin combines honest design advice and gorgeous professional photographs and illustrations with personal essays about the lessons she has learned while designing her own home and her own life—the first being: none of our homes or lives is perfect. Like a funny best friend, she reveals the disasters she confronted in her own kitchen renovation, her struggles with anorexia, her epic fight with her husband over a Lucite table, and her secrets for starting a successful blog."
+        },
+        {
+            "id": 17,
+            "prodName": "Antique Book Stack Collection",
+            "price": 30,
+            "cate_id": 4,
+            "img": "https://i.etsystatic.com/6421910/r/il/aefeee/4063404323/il_794xN.4063404323_eo41.jpg",
+            "descriptions": "Elements of Style is a uniquely personal and practical decorating guide that shows how designing a home can be an outlet of personal expression and an exercise in self-discovery. Drawing on her ten years of experience in the interior design industry, Erin combines honest design advice and gorgeous professional photographs and illustrations with personal essays about the lessons she has learned while designing her own home and her own life—the first being: none of our homes or lives is perfect. Like a funny best friend, she reveals the disasters she confronted in her own kitchen renovation, her struggles with anorexia, her epic fight with her husband over a Lucite table, and her secrets for starting a successful blog."
+        },
+        {
+            "id": 18,
+            "prodName": "LV Manufactures Coffee Table Book",
+            "price": 30,
+            "cate_id": 4,
+            "img": "https://i.etsystatic.com/15672302/r/il/b9a51c/4011319588/il_794xN.4011319588_4jk1.jpg",
+            "descriptions": "Elements of Style is a uniquely personal and practical decorating guide that shows how designing a home can be an outlet of personal expression and an exercise in self-discovery. Drawing on her ten years of experience in the interior design industry, Erin combines honest design advice and gorgeous professional photographs and illustrations with personal essays about the lessons she has learned while designing her own home and her own life—the first being: none of our homes or lives is perfect. Like a funny best friend, she reveals the disasters she confronted in her own kitchen renovation, her struggles with anorexia, her epic fight with her husband over a Lucite table, and her secrets for starting a successful blog."
+        },
+        {
+            "id": 19,
+            "prodName": "Book Care Package - The Midnight Library | Spa Gift Box | Pamper Gift Box | Self Care | Read and Relax | Book Club | Book Lover Gift |",
+            "price": 30,
+            "cate_id": 4,
+            "img": "https://i.etsystatic.com/25248496/r/il/2f51cc/3878349051/il_794xN.3878349051_op7r.jpg",
+            "descriptions": "Elements of Style is a uniquely personal and practical decorating guide that shows how designing a home can be an outlet of personal expression and an exercise in self-discovery. Drawing on her ten years of experience in the interior design industry, Erin combines honest design advice and gorgeous professional photographs and illustrations with personal essays about the lessons she has learned while designing her own home and her own life—the first being: none of our homes or lives is perfect. Like a funny best friend, she reveals the disasters she confronted in her own kitchen renovation, her struggles with anorexia, her epic fight with her husband over a Lucite table, and her secrets for starting a successful blog."
+        },
+        {
+            "id": 20,
+            "prodName": "Thomas Hardy 6 Novel Boxed Set. Gorgeous Folio Society Collection in near-fine condition. Illustrated books with co-ordinating cloth covers",
+            "price": 30,
+            "cate_id": 4,
+            "img": "https://i.etsystatic.com/26400840/r/il/2e27c7/4063956757/il_794xN.4063956757_1es7.jpg",
+            "descriptions": "Elements of Style is a uniquely personal and practical decorating guide that shows how designing a home can be an outlet of personal expression and an exercise in self-discovery. Drawing on her ten years of experience in the interior design industry, Erin combines honest design advice and gorgeous professional photographs and illustrations with personal essays about the lessons she has learned while designing her own home and her own life—the first being: none of our homes or lives is perfect. Like a funny best friend, she reveals the disasters she confronted in her own kitchen renovation, her struggles with anorexia, her epic fight with her husband over a Lucite table, and her secrets for starting a successful blog."
+        },
+        {
+            "id": 21,
+            "prodName": "Flower centrepiece, wedding centrepiece, floral table centrepiece, white flower table decor, large table centrepiece, flower vase",
+            "price": 30,
+            "cate_id": 5,
+            "img": "https://i.etsystatic.com/16054045/r/il/90db39/2367858129/il_1140xN.2367858129_p1vz.jpg",
+            "descriptions": "Our Stunning flower centrepieces are handmade and they feature a classic mix of ivory roses, hydrangeas, wild fire sprays and two types of eucalyptus."
+        },
+        {
+            "id": 22,
+            "prodName": "Flower centrepieces Metal Tube Centrepieces Single Stem Vases candlestick holders Industrial Minimalist Decor Event floral decor",
+            "price": 30,
+            "cate_id": 5,
+            "img": "https://i.etsystatic.com/19771707/r/il/7cd18b/3972592428/il_794xN.3972592428_3rzs.jpg",
+            "descriptions": "Our Stunning flower centrepieces are handmade and they feature a classic mix of ivory roses, hydrangeas, wild fire sprays and two types of eucalyptus."
+        },
+        {
+            "id": 23,
+            "prodName": "Farmhouse Glass Jug Centerpiece | Vintage Vase | Floral Centerpiece | Cottage Core Decor | Boho Decor | Wedding | Gift for Her |",
+            "price": 30,
+            "cate_id": 5,
+            "img": "https://i.etsystatic.com/15398010/r/il/b923cf/3724419223/il_794xN.3724419223_ahwc.jpg",
+            "descriptions": "Our Stunning flower centrepieces are handmade and they feature a classic mix of ivory roses, hydrangeas, wild fire sprays and two types of eucalyptus."
+        },
+        {
+            "id": 24,
+            "prodName": "Sunflowers and bees Vase Bee Happy designed and hand painted by Luci Lu Designs",
+            "price": 30,
+            "cate_id": 5,
+            "img": "https://i.etsystatic.com/7881381/r/il/96a2a1/3729894436/il_794xN.3729894436_dy63.jpg",
+            "descriptions": "Our Stunning flower centrepieces are handmade and they feature a classic mix of ivory roses, hydrangeas, wild fire sprays and two types of eucalyptus."
+        },
+        {
+            "id": 25,
+            "prodName": "10-20 stems ornate, fluffy burnt orange pampas grass, boho wedding decor, vase/table decoration",
+            "price": 30,
+            "cate_id": 5,
+            "img": "https://i.etsystatic.com/21866124/r/il/c92777/3601639101/il_794xN.3601639101_g474.jpg",
+            "descriptions": "Our Stunning flower centrepieces are handmade and they feature a classic mix of ivory roses, hydrangeas, wild fire sprays and two types of eucalyptus."
+        }
+    ]
+
+}
